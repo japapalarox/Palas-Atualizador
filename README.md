@@ -1,0 +1,2 @@
+# Palas-Atualizador
+Atualizações automáticas
